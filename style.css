@@ -60,3 +60,11 @@ font-weight:bold;
 	  color:white;
 	  text-align:right;
 }
+.photo{
+      height: auto;
+      width: auto;
+      overflow: auto;
+      max-width: 50%;
+      max-height: 50%;
+
+}
