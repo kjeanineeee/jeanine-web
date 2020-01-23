@@ -20,11 +20,9 @@ hl, h2, h3{
 }
 
 
-#header-background{
-	width:100%;
-	height:100px;
-	background:<p class="photo"> <img src="Plants.jpeg"/></p>
-      color:Black;
+#header{
+	background-color:#D7DBDD
+	color:white;
       text-align:center;
 	  padding:10px;
 }
